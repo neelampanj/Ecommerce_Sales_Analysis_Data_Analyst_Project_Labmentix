@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Region,Sales_Channel,Category,Product,Quantity,Unit_Price_INR,Discount_Pct,Revenue_INR,Cost_INR,Profit_INR,Payment_Method,Order_Status
+ORD0001,2025-02-02,Central,Marketplace,Electronics,Bluetooth Speaker,4,2395,0.0,9580.0,5571.08,4008.92,Cash on Delivery,Delivered
+ORD0002,2025-10-10,North,Website,Sports,Yoga Mat,4,775,0.0,3100.0,2276.68,823.32,Credit Card,Delivered
+ORD0003,2025-08-27,North,Mobile App,Sports,Resistance Bands,3,524,0.0,1572.0,864.64,707.36,UPI,Delivered
+ORD0004,2025-06-10,North,Marketplace,Electronics,Wireless Earbuds,4,1860,0.1,6696.0,4630.24,2065.76,Credit Card,Delivered
+ORD0005,2025-06-08,Central,Website,Beauty,Perfume,4,1426,0.0,5704.0,3317.18,2386.82,Credit Card,Delivered
+ORD0006,2025-11-10,North,Website,Sports,Dumbbell Set,2,2051,0.05,3896.9,2241.48,1655.42,Net Banking,Delivered
+ORD0007,2025-02-01,North,Website,Fashion,Denim Jeans,3,1868,0.15,4763.4,4341.35,422.05,Net Banking,Delivered
+ORD0008,2025-09-12,West,Marketplace,Beauty,Skincare Kit,3,1143,0.1,3086.1,2241.53,844.57,Net Banking,Delivered
+ORD0009,2025-03-15,West,Website,Beauty,Hair Dryer,3,1803,0.0,5409.0,3484.74,1924.26,Debit Card,Delivered
+ORD0010,2025-02-04,South,Website,Home & Kitchen,Storage Set,3,820,0.05,2337.0,1717.8,619.2,Credit Card,Returned
+ORD0011,2025-07-12,East,Mobile App,Beauty,Perfume,4,1544,0.1,5558.4,4574.1,984.3,Cash on Delivery,Delivered
+ORD0012,2025-12-23,West,Mobile App,Fashion,Cotton Shirt,4,859,0.1,3092.4,1967.54,1124.86,Cash on Delivery,Delivered
+ORD0013,2025-09-26,West,Mobile App,Sports,Yoga Mat,4,678,0.1,2440.8,1469.82,970.98,Net Banking,Delivered
+ORD0014,2025-10-05,Central,Marketplace,Sports,Resistance Bands,1,568,0.15,482.8,412.78,70.02,Net Banking,Delivered
+ORD0015,2025-09-19,North,Website,Beauty,Skincare Kit,1,1300,0.0,1300.0,866.95,433.05,Debit Card,Delivered
+ORD0016,2025-10-14,West,Website,Beauty,Skincare Kit,3,1359,0.05,3873.15,2755.62,1117.53,Net Banking,Delivered
+ORD0017,2025-07-07,North,Website,Beauty,Face Serum,3,683,0.05,1946.55,1477.99,468.56,Cash on Delivery,Delivered
+ORD0018,2025-02-16,West,Website,Beauty,Perfume,4,1520,0.05,5776.0,3658.67,2117.33,UPI,Delivered
+ORD0019,2025-11-03,East,Marketplace,Electronics,USB-C Hub,3,1469,0.1,3966.3,2925.27,1041.03,Net Banking,Delivered
+ORD0020,2025-06-14,South,Mobile App,Beauty,Hair Dryer,1,2159,0.1,1943.1,1656.62,286.48,UPI,Delivered
+ORD0021,2025-07-02,North,Website,Sports,Running Bottle,1,464,0.1,417.6,242.76,174.84,Debit Card,Delivered
+ORD0022,2025-05-16,East,Marketplace,Fashion,Backpack,4,1393,0.0,5572.0,4228.01,1343.99,Cash on Delivery,Delivered
+ORD0023,2025-03-08,Central,Mobile App,Home & Kitchen,Desk Lamp,1,906,0.15,770.1,496.19,273.91,Net Banking,Delivered
+ORD0024,2025-12-05,North,Mobile App,Electronics,Bluetooth Speaker,3,2671,0.0,8013.0,4668.5,3344.5,UPI,Delivered
+ORD0025,2025-10-13,Central,Website,Sports,Yoga Mat,1,787,0.0,787.0,410.35,376.65,UPI,Delivered
+ORD0026,2025-08-24,South,Marketplace,Sports,Resistance Bands,4,605,0.0,2420.0,1762.37,657.63,Net Banking,Delivered
+ORD0027,2025-05-27,Central,Marketplace,Sports,Running Bottle,4,400,0.0,1600.0,883.97,716.03,Debit Card,Delivered
+ORD0028,2025-10-28,Central,Website,Fashion,Cotton Shirt,1,828,0.1,745.2,472.12,273.08,Credit Card,Delivered
+ORD0029,2025-07-19,West,Website,Fashion,Denim Jeans,3,1520,0.1,4104.0,2421.41,1682.59,Net Banking,Delivered
+ORD0030,2025-06-11,North,Mobile App,Fashion,Sneakers,2,2412,0.2,3859.2,3083.63,775.57,Cash on Delivery,Delivered
+ORD0031,2025-06-14,North,Mobile App,Sports,Running Bottle,2,506,0.0,1012.0,678.33,333.67,Cash on Delivery,Delivered
+ORD0032,2025-03-24,North,Website,Fashion,Denim Jeans,1,1720,0.05,1634.0,1106.45,527.55,UPI,Delivered
+ORD0033,2025-02-03,South,Marketplace,Sports,Dumbbell Set,1,2081,0.1,1872.9,1425.49,447.41,Debit Card,Delivered
+ORD0034,2025-07-22,East,Mobile App,Sports,Yoga Mat,4,721,0.0,2884.0,1813.41,1070.59,Debit Card,Delivered
+ORD0035,2025-11-21,East,Mobile App,Electronics,Bluetooth Speaker,2,2550,0.1,4590.0,3517.13,1072.87,Credit Card,Delivered
+ORD0036,2025-01-24,East,Marketplace,Home & Kitchen,Cookware Set,1,2294,0.05,2179.3,1498.7,680.6,Cash on Delivery,Returned
+ORD0037,2025-11-10,East,Mobile App,Electronics,USB-C Hub,4,1522,0.15,5174.8,3663.5,1511.3,Net Banking,Delivered
+ORD0038,2025-10-30,North,Mobile App,Electronics,Wireless Earbuds,1,1978,0.0,1978.0,1172.87,805.13,Credit Card,Delivered
+ORD0039,2025-04-12,West,Mobile App,Beauty,Hair Dryer,1,1679,0.15,1427.15,1247.0,180.15,Credit Card,Delivered
+ORD0040,2025-08-19,North,Mobile App,Home & Kitchen,Cookware Set,3,2144,0.2,5145.6,5009.38,136.22,Cash on Delivery,Delivered
+ORD0041,2025-03-02,West,Marketplace,Beauty,Skincare Kit,1,1226,0.1,1103.4,640.94,462.46,Credit Card,Delivered
+ORD0042,2025-10-04,North,Website,Fashion,Sneakers,3,2853,0.2,6847.2,5687.9,1159.3,Net Banking,Cancelled
+ORD0043,2025-09-13,East,Website,Beauty,Face Serum,3,638,0.0,1914.0,1371.16,542.84,Debit Card,Delivered
+ORD0044,2025-05-10,North,Website,Sports,Yoga Mat,2,836,0.0,1672.0,970.67,701.33,Credit Card,Delivered
+ORD0045,2025-01-25,East,Marketplace,Sports,Running Bottle,3,405,0.0,1215.0,898.29,316.71,Cash on Delivery,Delivered
+ORD0046,2025-12-21,West,Marketplace,Fashion,Cotton Shirt,4,805,0.05,3059.0,2126.09,932.91,Credit Card,Delivered
+ORD0047,2025-06-12,West,Website,Home & Kitchen,Storage Set,3,936,0.05,2667.6,2124.21,543.39,Debit Card,Delivered
+ORD0048,2025-11-22,East,Marketplace,Home & Kitchen,Storage Set,3,865,0.0,2595.0,1618.3,976.7,Net Banking,Delivered
+ORD0049,2025-09-05,South,Marketplace,Home & Kitchen,Mixer Grinder,1,2603,0.0,2603.0,1981.25,621.75,Debit Card,Delivered
+ORD0050,2025-10-12,North,Marketplace,Electronics,Bluetooth Speaker,3,2285,0.1,6169.5,4694.17,1475.33,Net Banking,Delivered
+ORD0051,2025-10-05,West,Mobile App,Sports,Dumbbell Set,4,2341,0.1,8427.6,7214.35,1213.25,Cash on Delivery,Delivered
+ORD0052,2025-03-13,West,Mobile App,Electronics,Wireless Earbuds,3,1789,0.1,4830.3,3703.59,1126.71,Net Banking,Cancelled
+ORD0053,2025-05-13,West,Website,Electronics,Smart Watch,4,3439,0.0,13756.0,7596.15,6159.85,UPI,Delivered
+ORD0054,2025-06-20,Central,Website,Sports,Dumbbell Set,4,2101,0.2,6723.2,5269.39,1453.81,Cash on Delivery,Delivered
+ORD0055,2025-07-01,Central,Website,Home & Kitchen,Cookware Set,3,2464,0.15,6283.2,3914.89,2368.31,Credit Card,Delivered
+ORD0056,2025-01-16,West,Marketplace,Home & Kitchen,Mixer Grinder,4,2983,0.1,10738.8,8889.56,1849.24,Cash on Delivery,Delivered
+ORD0057,2025-07-19,South,Marketplace,Home & Kitchen,Mixer Grinder,4,2916,0.15,9914.4,6078.93,3835.47,Debit Card,Delivered
+ORD0058,2025-02-26,East,Mobile App,Fashion,Sneakers,4,2893,0.1,10414.8,6732.49,3682.31,Net Banking,Delivered
+ORD0059,2025-09-29,South,Mobile App,Beauty,Perfume,4,1653,0.05,6281.4,3910.7,2370.7,Net Banking,Delivered
+ORD0060,2025-09-07,South,Mobile App,Beauty,Face Serum,3,693,0.15,1767.15,1620.94,146.21,Credit Card,Delivered
+ORD0061,2025-12-03,East,Website,Fashion,Sneakers,1,2962,0.1,2665.8,1998.63,667.17,Credit Card,Returned
+ORD0062,2025-09-29,North,Mobile App,Home & Kitchen,Storage Set,2,828,0.0,1656.0,948.08,707.92,UPI,Delivered
+ORD0063,2025-05-14,South,Mobile App,Sports,Running Bottle,4,445,0.2,1424.0,1273.61,150.39,Debit Card,Delivered
+ORD0064,2025-12-20,South,Marketplace,Home & Kitchen,Desk Lamp,2,916,0.15,1557.2,1204.87,352.33,Cash on Delivery,Delivered
+ORD0065,2025-05-30,South,Mobile App,Beauty,Skincare Kit,1,1178,0.0,1178.0,660.17,517.83,Net Banking,Delivered
+ORD0066,2025-04-29,West,Marketplace,Electronics,Bluetooth Speaker,2,2601,0.05,4941.9,3349.19,1592.71,Net Banking,Delivered
+ORD0067,2025-11-27,Central,Website,Home & Kitchen,Desk Lamp,3,1030,0.0,3090.0,2058.45,1031.55,UPI,Delivered
+ORD0068,2025-05-16,East,Marketplace,Home & Kitchen,Desk Lamp,4,942,0.0,3768.0,2899.63,868.37,UPI,Delivered
+ORD0069,2025-01-28,North,Website,Electronics,Wireless Earbuds,3,1796,0.05,5118.6,3239.63,1878.97,UPI,Delivered
+ORD0070,2025-06-21,North,Mobile App,Beauty,Hair Dryer,4,2016,0.0,8064.0,4826.62,3237.38,Credit Card,Delivered
+ORD0071,2025-10-18,North,Website,Electronics,Wireless Earbuds,2,1987,0.0,3974.0,2591.54,1382.46,Debit Card,Delivered
+ORD0072,2025-03-11,West,Mobile App,Fashion,Backpack,3,1538,0.0,4614.0,2786.15,1827.85,Credit Card,Delivered
+ORD0073,2025-06-18,South,Mobile App,Sports,Running Bottle,2,434,0.2,694.4,462.32,232.08,Debit Card,Delivered
+ORD0074,2025-02-17,North,Marketplace,Electronics,Wireless Earbuds,3,1648,0.15,4202.4,2582.78,1619.62,UPI,Delivered
+ORD0075,2025-09-08,West,Marketplace,Electronics,Wireless Earbuds,3,1697,0.1,4581.9,3428.54,1153.36,Net Banking,Delivered
+ORD0076,2025-06-23,West,Website,Home & Kitchen,Desk Lamp,3,876,0.1,2365.2,1951.1,414.1,Credit Card,Returned
+ORD0077,2025-05-01,West,Website,Fashion,Backpack,4,1590,0.05,6042.0,4651.84,1390.16,Credit Card,Delivered
+ORD0078,2025-03-24,South,Marketplace,Electronics,Bluetooth Speaker,2,2370,0.0,4740.0,2561.06,2178.94,UPI,Delivered
+ORD0079,2025-07-26,North,Marketplace,Home & Kitchen,Mixer Grinder,3,2991,0.1,8075.7,6389.05,1686.65,Credit Card,Returned
+ORD0080,2025-09-02,North,Marketplace,Electronics,Bluetooth Speaker,1,2201,0.1,1980.9,1243.49,737.41,Debit Card,Cancelled
+ORD0081,2025-12-10,North,Mobile App,Home & Kitchen,Mixer Grinder,4,3186,0.1,11469.6,7047.39,4422.21,Net Banking,Returned
+ORD0082,2025-06-09,West,Website,Fashion,Cotton Shirt,1,855,0.0,855.0,576.77,278.23,Credit Card,Delivered
+ORD0083,2025-02-28,North,Marketplace,Sports,Resistance Bands,1,569,0.0,569.0,425.16,143.84,Credit Card,Delivered
+ORD0084,2025-10-31,South,Website,Electronics,Bluetooth Speaker,3,2534,0.1,6841.8,5073.6,1768.2,Cash on Delivery,Cancelled
+ORD0085,2025-08-18,East,Mobile App,Electronics,Smart Watch,4,2826,0.15,9608.4,7407.06,2201.34,Debit Card,Delivered
+ORD0086,2025-09-13,South,Website,Beauty,Perfume,3,1691,0.0,5073.0,3906.22,1166.78,UPI,Delivered
+ORD0087,2025-02-05,Central,Mobile App,Sports,Resistance Bands,4,514,0.05,1953.2,1461.22,491.98,Net Banking,Delivered
+ORD0088,2025-04-25,West,Mobile App,Fashion,Cotton Shirt,1,963,0.15,818.55,643.46,175.09,UPI,Returned
+ORD0089,2025-10-08,West,Mobile App,Beauty,Perfume,4,1449,0.0,5796.0,4134.5,1661.5,UPI,Cancelled
+ORD0090,2025-10-31,West,Mobile App,Sports,Dumbbell Set,4,2332,0.05,8861.6,5624.55,3237.05,Cash on Delivery,Delivered
+ORD0091,2025-06-08,West,Mobile App,Home & Kitchen,Storage Set,1,954,0.05,906.3,544.88,361.42,Credit Card,Delivered
+ORD0092,2025-10-21,North,Marketplace,Beauty,Face Serum,2,687,0.0,1374.0,1055.61,318.39,Credit Card,Delivered
+ORD0093,2025-11-04,Central,Mobile App,Fashion,Denim Jeans,3,1618,0.0,4854.0,2758.52,2095.48,Debit Card,Delivered
+ORD0094,2025-05-22,North,Marketplace,Fashion,Backpack,1,1407,0.2,1125.6,970.34,155.26,Debit Card,Delivered
+ORD0095,2025-11-24,South,Website,Home & Kitchen,Storage Set,1,917,0.15,779.45,691.81,87.64,Net Banking,Cancelled
+ORD0096,2025-04-16,North,Mobile App,Home & Kitchen,Desk Lamp,3,870,0.0,2610.0,1732.4,877.6,UPI,Delivered
+ORD0097,2025-03-29,East,Website,Beauty,Skincare Kit,2,1153,0.0,2306.0,1295.24,1010.76,Net Banking,Delivered
+ORD0098,2025-09-07,South,Website,Fashion,Cotton Shirt,3,878,0.05,2502.3,1890.17,612.13,Cash on Delivery,Delivered
+ORD0099,2025-08-21,North,Website,Beauty,Perfume,2,1780,0.0,3560.0,2096.06,1463.94,Net Banking,Delivered
+ORD0100,2025-02-21,East,Mobile App,Beauty,Hair Dryer,1,1793,0.1,1613.7,1329.24,284.46,Net Banking,Delivered
+ORD0101,2025-10-31,South,Website,Fashion,Cotton Shirt,3,849,0.0,2547.0,1946.94,600.06,Net Banking,Delivered
+ORD0102,2025-03-14,East,Mobile App,Home & Kitchen,Cookware Set,2,2239,0.1,4030.2,2834.51,1195.69,UPI,Delivered
+ORD0103,2025-10-21,East,Marketplace,Electronics,USB-C Hub,1,1691,0.0,1691.0,1123.07,567.93,Credit Card,Delivered
+ORD0104,2025-01-03,North,Website,Sports,Yoga Mat,2,838,0.0,1676.0,1136.52,539.48,Debit Card,Delivered
+ORD0105,2025-10-18,North,Mobile App,Fashion,Cotton Shirt,3,1023,0.15,2608.65,2187.64,421.01,Debit Card,Delivered
+ORD0106,2025-10-15,South,Mobile App,Sports,Resistance Bands,3,491,0.0,1473.0,1070.22,402.78,Cash on Delivery,Delivered
+ORD0107,2025-10-12,South,Marketplace,Beauty,Perfume,4,1792,0.05,6809.6,4918.28,1891.32,UPI,Cancelled
+ORD0108,2025-08-31,North,Marketplace,Home & Kitchen,Storage Set,4,849,0.0,3396.0,1900.42,1495.58,Cash on Delivery,Delivered
+ORD0109,2025-06-22,South,Mobile App,Electronics,USB-C Hub,3,1603,0.05,4568.55,3325.84,1242.71,Debit Card,Delivered
+ORD0110,2025-09-15,South,Mobile App,Beauty,Perfume,3,1481,0.1,3998.7,3287.65,711.05,UPI,Delivered
+ORD0111,2025-04-12,West,Website,Home & Kitchen,Desk Lamp,3,1080,0.1,2916.0,2240.78,675.22,Credit Card,Returned
+ORD0112,2025-10-12,West,Mobile App,Beauty,Hair Dryer,3,1871,0.1,5051.7,3969.2,1082.5,Debit Card,Returned
+ORD0113,2025-07-22,West,Website,Home & Kitchen,Storage Set,1,823,0.05,781.85,522.12,259.73,UPI,Delivered
+ORD0114,2025-06-17,West,Marketplace,Home & Kitchen,Cookware Set,1,2315,0.0,2315.0,1400.35,914.65,UPI,Delivered
+ORD0115,2025-07-04,South,Marketplace,Sports,Resistance Bands,4,579,0.0,2316.0,1370.01,945.99,UPI,Delivered
+ORD0116,2025-07-27,Central,Marketplace,Home & Kitchen,Cookware Set,4,2051,0.1,7383.6,5762.18,1621.42,Net Banking,Delivered
+ORD0117,2025-01-14,West,Mobile App,Beauty,Hair Dryer,2,1830,0.2,2928.0,2283.53,644.47,Cash on Delivery,Delivered
+ORD0118,2025-02-21,Central,Marketplace,Fashion,Backpack,3,1454,0.05,4143.9,3329.71,814.19,Net Banking,Delivered
+ORD0119,2025-03-31,East,Mobile App,Sports,Running Bottle,3,469,0.0,1407.0,820.98,586.02,Net Banking,Returned
+ORD0120,2025-02-11,Central,Website,Home & Kitchen,Desk Lamp,4,1020,0.1,3672.0,2930.56,741.44,Debit Card,Delivered
+ORD0121,2025-06-10,West,Mobile App,Beauty,Face Serum,3,620,0.0,1860.0,1250.57,609.43,Debit Card,Delivered
+ORD0122,2025-09-01,Central,Mobile App,Beauty,Perfume,2,1477,0.0,2954.0,1794.24,1159.76,Cash on Delivery,Delivered
+ORD0123,2025-08-27,West,Website,Home & Kitchen,Mixer Grinder,3,2548,0.05,7261.8,5959.56,1302.24,UPI,Delivered
+ORD0124,2025-06-21,West,Marketplace,Electronics,Smart Watch,2,3592,0.2,5747.2,3865.76,1881.44,UPI,Delivered
+ORD0125,2025-11-09,Central,Mobile App,Home & Kitchen,Storage Set,2,894,0.0,1788.0,1316.79,471.21,UPI,Delivered
+ORD0126,2025-07-26,East,Website,Fashion,Cotton Shirt,1,952,0.1,856.8,740.59,116.21,Net Banking,Delivered
+ORD0127,2025-01-29,West,Website,Electronics,Wireless Earbuds,3,2041,0.0,6123.0,3918.2,2204.8,Debit Card,Delivered
+ORD0128,2025-10-07,South,Marketplace,Home & Kitchen,Cookware Set,4,2386,0.15,8112.4,7000.71,1111.69,Debit Card,Delivered
+ORD0129,2025-07-29,Central,Mobile App,Home & Kitchen,Cookware Set,3,2216,0.15,5650.8,3705.7,1945.1,Net Banking,Delivered
+ORD0130,2025-08-20,East,Website,Home & Kitchen,Mixer Grinder,2,2513,0.0,5026.0,2614.2,2411.8,Debit Card,Delivered
+ORD0131,2025-07-26,West,Website,Electronics,Wireless Earbuds,2,1969,0.0,3938.0,2198.13,1739.87,Net Banking,Delivered
+ORD0132,2025-07-22,Central,Mobile App,Fashion,Cotton Shirt,2,813,0.05,1544.7,1157.43,387.27,Credit Card,Delivered
+ORD0133,2025-02-03,West,Mobile App,Home & Kitchen,Cookware Set,3,2201,0.05,6272.85,3809.86,2462.99,Credit Card,Delivered
+ORD0134,2025-07-24,North,Website,Sports,Yoga Mat,4,694,0.0,2776.0,2037.61,738.39,Credit Card,Cancelled
+ORD0135,2025-10-18,West,Marketplace,Sports,Yoga Mat,4,747,0.05,2838.6,2233.6,605.0,Net Banking,Delivered
+ORD0136,2025-04-21,South,Website,Fashion,Sneakers,3,2731,0.0,8193.0,5825.46,2367.54,Debit Card,Delivered
+ORD0137,2025-08-09,West,Mobile App,Home & Kitchen,Desk Lamp,2,842,0.0,1684.0,1139.07,544.93,Debit Card,Delivered
+ORD0138,2025-01-12,West,Marketplace,Home & Kitchen,Storage Set,2,930,0.1,1674.0,1153.56,520.44,Credit Card,Delivered
+ORD0139,2025-05-07,East,Website,Electronics,Smart Watch,2,3378,0.0,6756.0,3515.0,3241.0,Credit Card,Returned
+ORD0140,2025-06-09,North,Marketplace,Beauty,Skincare Kit,4,1389,0.05,5278.2,3576.86,1701.34,Net Banking,Delivered
+ORD0141,2025-12-25,East,Marketplace,Home & Kitchen,Mixer Grinder,2,2606,0.1,4690.8,3000.36,1690.44,UPI,Delivered
+ORD0142,2025-03-20,North,Mobile App,Electronics,Smart Watch,3,2928,0.15,7466.4,5299.42,2166.98,Credit Card,Delivered
+ORD0143,2025-04-11,South,Website,Fashion,Backpack,2,1454,0.0,2908.0,2183.84,724.16,Net Banking,Delivered
+ORD0144,2025-05-30,North,Marketplace,Beauty,Face Serum,1,676,0.0,676.0,501.33,174.67,Cash on Delivery,Delivered
+ORD0145,2025-12-29,Central,Mobile App,Beauty,Skincare Kit,1,1114,0.05,1058.3,673.11,385.19,Net Banking,Delivered
+ORD0146,2025-11-08,North,Website,Sports,Resistance Bands,4,623,0.05,2367.4,1615.7,751.7,Net Banking,Delivered
+ORD0147,2025-01-13,East,Marketplace,Sports,Dumbbell Set,4,1917,0.0,7668.0,4372.56,3295.44,UPI,Delivered
+ORD0148,2025-03-27,South,Mobile App,Electronics,Bluetooth Speaker,3,2367,0.05,6745.95,4861.48,1884.47,Net Banking,Returned
+ORD0149,2025-10-27,South,Website,Beauty,Hair Dryer,4,1894,0.1,6818.4,4849.19,1969.21,Cash on Delivery,Delivered
+ORD0150,2025-01-22,South,Mobile App,Home & Kitchen,Storage Set,4,831,0.0,3324.0,1872.0,1452.0,Cash on Delivery,Delivered
+ORD0151,2025-11-09,East,Marketplace,Sports,Yoga Mat,4,807,0.0,3228.0,2372.47,855.53,Net Banking,Delivered
+ORD0152,2025-04-13,North,Marketplace,Electronics,Bluetooth Speaker,4,2702,0.05,10267.6,8216.39,2051.21,Debit Card,Delivered
+ORD0153,2025-12-01,West,Website,Beauty,Face Serum,4,667,0.0,2668.0,1903.08,764.92,Net Banking,Delivered
+ORD0154,2025-04-18,North,Marketplace,Home & Kitchen,Storage Set,2,921,0.0,1842.0,1378.7,463.3,Credit Card,Delivered
+ORD0155,2025-06-08,North,Website,Electronics,Smart Watch,3,3460,0.05,9861.0,6845.47,3015.53,Net Banking,Cancelled
+ORD0156,2025-08-30,North,Website,Beauty,Perfume,4,1655,0.15,5627.0,4086.93,1540.07,UPI,Delivered
+ORD0157,2025-02-16,East,Marketplace,Fashion,Backpack,1,1589,0.1,1430.1,1001.86,428.24,Credit Card,Delivered
+ORD0158,2025-07-23,West,Marketplace,Electronics,Wireless Earbuds,4,1976,0.0,7904.0,4734.39,3169.61,Net Banking,Delivered
+ORD0159,2025-07-04,East,Website,Sports,Running Bottle,3,476,0.0,1428.0,990.7,437.3,Credit Card,Delivered
+ORD0160,2025-10-14,East,Mobile App,Electronics,Wireless Earbuds,3,1828,0.0,5484.0,3050.76,2433.24,UPI,Delivered
+ORD0161,2025-12-30,Central,Website,Electronics,Wireless Earbuds,3,1773,0.15,4521.15,4113.44,407.71,UPI,Delivered
+ORD0162,2025-08-31,West,Website,Sports,Resistance Bands,4,545,0.05,2071.0,1153.95,917.05,Debit Card,Cancelled
+ORD0163,2025-05-30,North,Mobile App,Fashion,Denim Jeans,3,1807,0.0,5421.0,4091.65,1329.35,UPI,Returned
+ORD0164,2025-05-29,North,Marketplace,Beauty,Perfume,4,1432,0.15,4868.8,3210.53,1658.27,Debit Card,Returned
+ORD0165,2025-06-02,South,Website,Sports,Running Bottle,3,448,0.0,1344.0,1037.4,306.6,Credit Card,Delivered
+ORD0166,2025-10-25,Central,Mobile App,Fashion,Backpack,1,1266,0.15,1076.1,891.31,184.79,Net Banking,Cancelled
+ORD0167,2025-04-28,Central,Mobile App,Beauty,Perfume,2,1460,0.15,2482.0,1932.68,549.32,Debit Card,Returned
+ORD0168,2025-03-02,West,Website,Home & Kitchen,Desk Lamp,2,955,0.05,1814.5,1185.06,629.44,Credit Card,Delivered
+ORD0169,2025-05-03,North,Marketplace,Electronics,Wireless Earbuds,3,1948,0.05,5551.8,4453.0,1098.8,Cash on Delivery,Delivered
+ORD0170,2025-01-09,South,Mobile App,Home & Kitchen,Mixer Grinder,4,3174,0.0,12696.0,8304.41,4391.59,Net Banking,Cancelled
+ORD0171,2025-02-08,North,Website,Electronics,Wireless Earbuds,3,1655,0.0,4965.0,2833.69,2131.31,Debit Card,Returned
+ORD0172,2025-02-02,West,Mobile App,Home & Kitchen,Cookware Set,3,2051,0.15,5230.05,4187.89,1042.16,Net Banking,Returned
+ORD0173,2025-10-09,North,Marketplace,Electronics,Smart Watch,1,3003,0.05,2852.85,2299.94,552.91,Credit Card,Delivered
+ORD0174,2025-09-21,North,Website,Electronics,Bluetooth Speaker,2,2312,0.1,4161.6,3213.41,948.19,Debit Card,Delivered
+ORD0175,2025-09-12,North,Mobile App,Beauty,Skincare Kit,4,1404,0.0,5616.0,3077.01,2538.99,Debit Card,Delivered
+ORD0176,2025-06-18,East,Marketplace,Electronics,Bluetooth Speaker,4,2732,0.05,10381.6,7040.54,3341.06,Debit Card,Delivered
+ORD0177,2025-09-19,South,Website,Beauty,Skincare Kit,1,1307,0.0,1307.0,1013.13,293.87,Debit Card,Returned
+ORD0178,2025-02-28,North,Marketplace,Home & Kitchen,Storage Set,3,929,0.1,2508.3,2015.72,492.58,Debit Card,Delivered
+ORD0179,2025-11-25,West,Marketplace,Electronics,USB-C Hub,4,1455,0.1,5238.0,4043.05,1194.95,Net Banking,Delivered
+ORD0180,2025-07-02,Central,Mobile App,Fashion,Backpack,3,1416,0.1,3823.2,2716.7,1106.5,Credit Card,Delivered
+ORD0181,2025-12-09,North,Marketplace,Home & Kitchen,Mixer Grinder,2,2920,0.1,5256.0,4395.29,860.71,Credit Card,Delivered
+ORD0182,2025-02-25,North,Website,Electronics,USB-C Hub,4,1397,0.0,5588.0,3674.9,1913.1,Net Banking,Delivered
+ORD0183,2025-07-01,North,Mobile App,Electronics,Bluetooth Speaker,4,2335,0.05,8873.0,5214.81,3658.19,Credit Card,Delivered
+ORD0184,2025-09-12,East,Website,Home & Kitchen,Mixer Grinder,3,2977,0.0,8931.0,5761.32,3169.68,Cash on Delivery,Delivered
+ORD0185,2025-06-30,East,Website,Electronics,USB-C Hub,1,1640,0.0,1640.0,1006.65,633.35,UPI,Delivered
+ORD0186,2025-06-12,South,Mobile App,Home & Kitchen,Storage Set,3,914,0.0,2742.0,1620.33,1121.67,UPI,Delivered
+ORD0187,2025-03-02,South,Mobile App,Beauty,Hair Dryer,4,1788,0.1,6436.8,5448.4,988.4,Debit Card,Delivered
+ORD0188,2025-05-20,Central,Mobile App,Electronics,USB-C Hub,3,1559,0.15,3975.45,3536.93,438.52,Cash on Delivery,Delivered
+ORD0189,2025-03-29,North,Mobile App,Beauty,Face Serum,3,652,0.05,1858.2,1224.29,633.91,Debit Card,Delivered
+ORD0190,2025-04-21,North,Marketplace,Beauty,Perfume,4,1501,0.15,5103.4,4445.59,657.81,Net Banking,Delivered
+ORD0191,2025-09-07,South,Mobile App,Electronics,USB-C Hub,1,1476,0.0,1476.0,1000.19,475.81,Net Banking,Delivered
+ORD0192,2025-08-19,South,Mobile App,Sports,Running Bottle,3,415,0.0,1245.0,666.16,578.84,Net Banking,Delivered
+ORD0193,2025-08-10,West,Marketplace,Electronics,USB-C Hub,1,1394,0.0,1394.0,1019.18,374.82,Credit Card,Returned
+ORD0194,2025-05-13,West,Mobile App,Beauty,Face Serum,2,709,0.0,1418.0,839.19,578.81,Net Banking,Delivered
+ORD0195,2025-12-17,East,Mobile App,Electronics,Smart Watch,4,3026,0.1,10893.6,8723.12,2170.48,Credit Card,Delivered
+ORD0196,2025-02-01,North,Website,Sports,Yoga Mat,3,771,0.2,1850.4,1226.0,624.4,Credit Card,Delivered
+ORD0197,2025-05-06,North,Website,Beauty,Perfume,4,1572,0.1,5659.2,3877.19,1782.01,UPI,Delivered
+ORD0198,2025-02-13,East,Website,Fashion,Backpack,2,1545,0.1,2781.0,2161.47,619.53,Net Banking,Delivered
+ORD0199,2025-05-04,Central,Marketplace,Beauty,Hair Dryer,1,1793,0.1,1613.7,1284.13,329.57,UPI,Delivered
+ORD0200,2025-12-18,North,Website,Electronics,Wireless Earbuds,1,1801,0.0,1801.0,1309.28,491.72,Net Banking,Delivered
+ORD0201,2025-05-14,South,Mobile App,Beauty,Hair Dryer,3,1797,0.0,5391.0,4126.2,1264.8,Debit Card,Delivered
+ORD0202,2025-11-28,South,Mobile App,Fashion,Denim Jeans,3,1511,0.0,4533.0,3110.57,1422.43,Cash on Delivery,Delivered
+ORD0203,2025-06-30,Central,Marketplace,Home & Kitchen,Desk Lamp,3,1045,0.0,3135.0,1671.39,1463.61,Net Banking,Delivered
+ORD0204,2025-09-13,West,Website,Electronics,Bluetooth Speaker,3,2192,0.15,5589.6,5024.15,565.45,Cash on Delivery,Delivered
+ORD0205,2025-06-16,East,Mobile App,Electronics,USB-C Hub,1,1610,0.15,1368.5,1150.88,217.62,Credit Card,Delivered
+ORD0206,2025-04-08,East,Marketplace,Sports,Yoga Mat,2,758,0.1,1364.4,944.05,420.35,Cash on Delivery,Returned
+ORD0207,2025-10-06,West,Mobile App,Beauty,Face Serum,4,686,0.05,2606.8,1561.39,1045.41,Cash on Delivery,Cancelled
+ORD0208,2025-12-20,Central,Mobile App,Electronics,Bluetooth Speaker,4,2726,0.05,10358.8,7479.47,2879.33,Debit Card,Cancelled
+ORD0209,2025-04-07,East,Mobile App,Home & Kitchen,Mixer Grinder,3,3101,0.0,9303.0,6743.06,2559.94,Credit Card,Cancelled
+ORD0210,2025-10-12,South,Website,Fashion,Denim Jeans,4,1836,0.0,7344.0,4976.69,2367.31,Cash on Delivery,Delivered
+ORD0211,2025-04-06,South,Mobile App,Sports,Yoga Mat,2,798,0.1,1436.4,1035.58,400.82,UPI,Delivered
+ORD0212,2025-09-19,North,Mobile App,Sports,Resistance Bands,4,540,0.2,1728.0,1151.77,576.23,Cash on Delivery,Delivered
+ORD0213,2025-10-15,West,Mobile App,Fashion,Denim Jeans,1,1887,0.0,1887.0,1241.9,645.1,Cash on Delivery,Delivered
+ORD0214,2025-06-14,North,Mobile App,Beauty,Face Serum,2,733,0.1,1319.4,1004.57,314.83,Cash on Delivery,Delivered
+ORD0215,2025-09-26,East,Marketplace,Electronics,Smart Watch,1,3348,0.0,3348.0,2514.0,834.0,Net Banking,Delivered
+ORD0216,2025-04-10,North,Marketplace,Sports,Running Bottle,1,509,0.15,432.65,386.68,45.97,Credit Card,Delivered
+ORD0217,2025-01-29,North,Website,Home & Kitchen,Mixer Grinder,1,2551,0.0,2551.0,1983.03,567.97,UPI,Delivered
+ORD0218,2025-02-05,East,Website,Fashion,Denim Jeans,3,1838,0.1,4962.6,4132.0,830.6,Cash on Delivery,Delivered
+ORD0219,2025-06-13,East,Mobile App,Sports,Running Bottle,2,436,0.05,828.4,491.92,336.48,Cash on Delivery,Delivered
+ORD0220,2025-11-26,South,Mobile App,Fashion,Sneakers,4,2857,0.0,11428.0,7981.01,3446.99,Net Banking,Delivered
+ORD0221,2025-02-16,South,Website,Sports,Resistance Bands,1,514,0.1,462.6,388.87,73.73,Credit Card,Delivered
+ORD0222,2025-06-16,East,Marketplace,Home & Kitchen,Storage Set,2,885,0.1,1593.0,1207.36,385.64,UPI,Delivered
+ORD0223,2025-09-14,West,Mobile App,Beauty,Skincare Kit,3,1124,0.05,3203.4,2112.05,1091.35,UPI,Delivered
+ORD0224,2025-03-15,West,Website,Home & Kitchen,Storage Set,4,800,0.15,2720.0,2118.1,601.9,Cash on Delivery,Delivered
+ORD0225,2025-09-21,West,Mobile App,Fashion,Backpack,1,1569,0.05,1490.55,1031.54,459.01,Cash on Delivery,Delivered
+ORD0226,2025-04-22,East,Mobile App,Electronics,Wireless Earbuds,2,1809,0.15,3075.3,2345.59,729.71,Debit Card,Cancelled
+ORD0227,2025-10-23,North,Mobile App,Fashion,Backpack,3,1310,0.0,3930.0,2044.18,1885.82,Debit Card,Delivered
+ORD0228,2025-07-31,North,Marketplace,Fashion,Cotton Shirt,3,925,0.0,2775.0,2121.99,653.01,UPI,Delivered
+ORD0229,2025-07-19,West,Website,Electronics,Smart Watch,2,3158,0.1,5684.4,3663.13,2021.27,Net Banking,Delivered
+ORD0230,2025-03-06,Central,Mobile App,Electronics,USB-C Hub,2,1709,0.0,3418.0,2032.32,1385.68,Credit Card,Delivered
+ORD0231,2025-06-19,Central,Marketplace,Beauty,Skincare Kit,4,1421,0.05,5399.8,3900.06,1499.74,Net Banking,Returned
+ORD0232,2025-11-09,East,Website,Home & Kitchen,Mixer Grinder,2,3070,0.0,6140.0,3894.91,2245.09,Net Banking,Cancelled
+ORD0233,2025-01-08,West,Website,Sports,Resistance Bands,3,522,0.0,1566.0,1037.15,528.85,Debit Card,Delivered
+ORD0234,2025-10-04,East,Mobile App,Fashion,Cotton Shirt,2,967,0.0,1934.0,1171.96,762.04,UPI,Delivered
+ORD0235,2025-06-29,East,Website,Fashion,Denim Jeans,4,1596,0.1,5745.6,4239.2,1506.4,UPI,Delivered
+ORD0236,2025-09-20,West,Marketplace,Electronics,Wireless Earbuds,2,1712,0.0,3424.0,1829.39,1594.61,Debit Card,Delivered
+ORD0237,2025-08-31,North,Mobile App,Electronics,USB-C Hub,1,1556,0.05,1478.2,988.28,489.92,UPI,Delivered
+ORD0238,2025-06-07,North,Marketplace,Beauty,Perfume,1,1482,0.15,1259.7,982.37,277.33,UPI,Delivered
+ORD0239,2025-04-23,West,Mobile App,Sports,Running Bottle,1,466,0.2,372.8,302.18,70.62,Credit Card,Delivered
+ORD0240,2025-08-17,South,Mobile App,Beauty,Hair Dryer,3,1694,0.05,4827.9,3582.64,1245.26,UPI,Delivered
+ORD0241,2025-02-21,West,Website,Fashion,Cotton Shirt,1,973,0.15,827.05,686.01,141.04,UPI,Delivered
+ORD0242,2025-08-02,South,Website,Beauty,Skincare Kit,3,1113,0.0,3339.0,2131.19,1207.81,Debit Card,Delivered
+ORD0243,2025-02-04,Central,Website,Electronics,USB-C Hub,3,1398,0.15,3564.9,2200.36,1364.54,Net Banking,Cancelled
+ORD0244,2025-08-26,West,Website,Fashion,Sneakers,4,2943,0.15,10006.2,9092.51,913.69,Debit Card,Delivered
+ORD0245,2025-08-18,West,Mobile App,Electronics,USB-C Hub,1,1559,0.05,1481.05,1042.47,438.58,UPI,Delivered
+ORD0246,2025-01-31,West,Mobile App,Beauty,Face Serum,3,715,0.05,2037.75,1399.73,638.02,Credit Card,Cancelled
+ORD0247,2025-10-04,South,Mobile App,Electronics,Bluetooth Speaker,1,2221,0.0,2221.0,1422.82,798.18,Net Banking,Delivered
+ORD0248,2025-06-01,Central,Mobile App,Electronics,Wireless Earbuds,4,1760,0.15,5984.0,4103.21,1880.79,Cash on Delivery,Returned
+ORD0249,2025-10-15,West,Marketplace,Electronics,Smart Watch,1,3637,0.0,3637.0,1974.83,1662.17,Cash on Delivery,Delivered
+ORD0250,2025-01-16,East,Website,Home & Kitchen,Mixer Grinder,2,3012,0.0,6024.0,3657.24,2366.76,Net Banking,Delivered
+ORD0251,2025-03-07,East,Mobile App,Home & Kitchen,Desk Lamp,1,1071,0.1,963.9,589.19,374.71,Net Banking,Delivered
+ORD0252,2025-06-30,North,Mobile App,Home & Kitchen,Mixer Grinder,2,2964,0.0,5928.0,3524.28,2403.72,UPI,Delivered
+ORD0253,2025-03-10,East,Website,Beauty,Hair Dryer,3,1810,0.0,5430.0,3690.99,1739.01,Credit Card,Delivered
+ORD0254,2025-05-01,North,Marketplace,Beauty,Face Serum,2,613,0.05,1164.7,763.13,401.57,Net Banking,Delivered
+ORD0255,2025-08-30,East,Marketplace,Sports,Running Bottle,1,398,0.05,378.1,242.64,135.46,Debit Card,Delivered
+ORD0256,2025-02-22,Central,Marketplace,Electronics,USB-C Hub,4,1328,0.1,4780.8,3817.2,963.6,Credit Card,Delivered
+ORD0257,2025-09-05,Central,Marketplace,Fashion,Cotton Shirt,2,1021,0.0,2042.0,1298.07,743.93,Debit Card,Delivered
+ORD0258,2025-02-07,Central,Mobile App,Beauty,Hair Dryer,1,1680,0.05,1596.0,1241.67,354.33,Credit Card,Delivered
+ORD0259,2025-03-05,East,Marketplace,Electronics,USB-C Hub,2,1371,0.0,2742.0,2099.85,642.15,Credit Card,Delivered
+ORD0260,2025-08-03,East,Marketplace,Electronics,Wireless Earbuds,3,2019,0.05,5754.15,4679.0,1075.15,Credit Card,Delivered
+ORD0261,2025-10-17,East,Website,Beauty,Perfume,1,1524,0.15,1295.4,946.97,348.43,Debit Card,Cancelled
+ORD0262,2025-03-04,South,Marketplace,Home & Kitchen,Mixer Grinder,3,2486,0.05,7085.1,4266.33,2818.77,Cash on Delivery,Delivered
+ORD0263,2025-04-20,South,Mobile App,Fashion,Cotton Shirt,2,875,0.0,1750.0,1236.12,513.88,Debit Card,Delivered
+ORD0264,2025-12-04,East,Marketplace,Electronics,USB-C Hub,1,1403,0.15,1192.55,854.55,338.0,UPI,Delivered
+ORD0265,2025-12-28,South,Marketplace,Fashion,Sneakers,4,2793,0.0,11172.0,8153.39,3018.61,Net Banking,Delivered
+ORD0266,2025-08-01,West,Website,Electronics,Bluetooth Speaker,2,2731,0.0,5462.0,3071.52,2390.48,Debit Card,Delivered
+ORD0267,2025-06-13,West,Website,Beauty,Face Serum,2,574,0.15,975.8,675.93,299.87,UPI,Delivered
+ORD0268,2025-05-07,South,Marketplace,Beauty,Face Serum,2,577,0.0,1154.0,657.97,496.03,Credit Card,Delivered
+ORD0269,2025-08-12,South,Website,Sports,Dumbbell Set,2,1896,0.0,3792.0,2171.11,1620.89,Cash on Delivery,Cancelled
+ORD0270,2025-08-04,East,Website,Home & Kitchen,Desk Lamp,1,967,0.0,967.0,697.42,269.58,Cash on Delivery,Delivered
+ORD0271,2025-04-18,East,Website,Fashion,Denim Jeans,1,1834,0.15,1558.9,1100.77,458.13,Net Banking,Delivered
+ORD0272,2025-01-09,West,Marketplace,Sports,Resistance Bands,2,497,0.1,894.6,525.71,368.89,Cash on Delivery,Delivered
+ORD0273,2025-02-25,Central,Marketplace,Sports,Running Bottle,3,407,0.0,1221.0,766.4,454.6,UPI,Delivered
+ORD0274,2025-12-16,South,Marketplace,Fashion,Backpack,4,1386,0.15,4712.4,3272.56,1439.84,Net Banking,Delivered
+ORD0275,2025-06-02,East,Website,Beauty,Hair Dryer,3,1878,0.0,5634.0,3666.02,1967.98,UPI,Delivered
+ORD0276,2025-06-26,East,Website,Beauty,Skincare Kit,3,1367,0.0,4101.0,3166.55,934.45,Cash on Delivery,Cancelled
+ORD0277,2025-06-20,North,Website,Fashion,Denim Jeans,1,1728,0.0,1728.0,1266.17,461.83,Debit Card,Delivered
+ORD0278,2025-10-13,North,Mobile App,Electronics,USB-C Hub,4,1539,0.1,5540.4,3295.31,2245.09,Debit Card,Delivered
+ORD0279,2025-01-24,East,Mobile App,Electronics,Wireless Earbuds,3,1705,0.1,4603.5,2817.63,1785.87,Net Banking,Returned
+ORD0280,2025-01-31,South,Mobile App,Home & Kitchen,Mixer Grinder,2,2891,0.1,5203.8,3672.09,1531.71,UPI,Delivered
+ORD0281,2025-04-11,East,Marketplace,Beauty,Perfume,4,1770,0.05,6726.0,5379.48,1346.52,UPI,Delivered
+ORD0282,2025-06-27,Central,Marketplace,Fashion,Denim Jeans,3,1635,0.05,4659.75,3127.61,1532.14,Debit Card,Delivered
+ORD0283,2025-09-02,South,Website,Fashion,Denim Jeans,4,1807,0.0,7228.0,3831.38,3396.62,Cash on Delivery,Delivered
+ORD0284,2025-06-29,North,Mobile App,Fashion,Cotton Shirt,2,1014,0.1,1825.2,1516.6,308.6,UPI,Delivered
+ORD0285,2025-06-11,East,Mobile App,Sports,Dumbbell Set,4,2010,0.0,8040.0,4951.9,3088.1,Credit Card,Delivered
+ORD0286,2025-12-09,South,Marketplace,Electronics,Wireless Earbuds,3,1877,0.05,5349.45,3433.78,1915.67,Debit Card,Delivered
+ORD0287,2025-02-28,East,Marketplace,Electronics,Smart Watch,2,3619,0.05,6876.1,5475.89,1400.21,Cash on Delivery,Delivered
+ORD0288,2025-07-28,West,Mobile App,Beauty,Hair Dryer,4,2159,0.05,8204.2,4699.06,3505.14,Debit Card,Delivered
+ORD0289,2025-07-17,East,Marketplace,Beauty,Perfume,1,1708,0.15,1451.8,1167.46,284.34,Cash on Delivery,Delivered
+ORD0290,2025-06-22,Central,Website,Fashion,Denim Jeans,3,1512,0.1,4082.4,2613.78,1468.62,Net Banking,Delivered
+ORD0291,2025-10-22,North,Marketplace,Fashion,Backpack,1,1355,0.1,1219.5,776.6,442.9,UPI,Returned
+ORD0292,2025-04-08,North,Mobile App,Beauty,Perfume,1,1529,0.2,1223.2,1076.61,146.59,Cash on Delivery,Delivered
+ORD0293,2025-12-15,North,Marketplace,Beauty,Hair Dryer,3,2031,0.0,6093.0,3176.05,2916.95,Cash on Delivery,Returned
+ORD0294,2025-05-02,East,Marketplace,Home & Kitchen,Desk Lamp,1,956,0.05,908.2,577.81,330.39,Debit Card,Delivered
+ORD0295,2025-07-18,Central,Website,Home & Kitchen,Cookware Set,3,2505,0.0,7515.0,4659.43,2855.57,UPI,Delivered
+ORD0296,2025-07-10,North,Marketplace,Electronics,Smart Watch,2,3451,0.05,6556.9,5238.64,1318.26,UPI,Delivered
+ORD0297,2025-11-07,North,Website,Electronics,Smart Watch,3,3034,0.2,7281.6,5227.55,2054.05,UPI,Delivered
+ORD0298,2025-06-10,East,Marketplace,Fashion,Backpack,4,1369,0.15,4654.6,3044.83,1609.77,Debit Card,Delivered
+ORD0299,2025-04-14,South,Marketplace,Home & Kitchen,Desk Lamp,4,976,0.0,3904.0,2202.96,1701.04,UPI,Delivered
+ORD0300,2025-01-08,West,Website,Sports,Dumbbell Set,1,1884,0.15,1601.4,1388.96,212.44,UPI,Delivered
+ORD0301,2025-05-13,Central,Website,Sports,Yoga Mat,3,705,0.1,1903.5,1334.19,569.31,Cash on Delivery,Delivered
+ORD0302,2025-10-29,Central,Website,Electronics,Bluetooth Speaker,4,2205,0.15,7497.0,4705.07,2791.93,Debit Card,Returned
+ORD0303,2025-01-04,West,Mobile App,Electronics,Bluetooth Speaker,4,2276,0.05,8648.8,5601.79,3047.01,Debit Card,Delivered
+ORD0304,2025-11-24,South,Marketplace,Fashion,Backpack,3,1323,0.05,3770.55,2218.61,1551.94,Net Banking,Delivered
+ORD0305,2025-07-18,West,Mobile App,Fashion,Sneakers,2,2861,0.0,5722.0,3199.49,2522.51,UPI,Delivered
+ORD0306,2025-02-21,Central,Marketplace,Home & Kitchen,Desk Lamp,1,847,0.1,762.3,456.27,306.03,Debit Card,Delivered
+ORD0307,2025-04-21,North,Mobile App,Sports,Dumbbell Set,3,2172,0.2,5212.8,3824.77,1388.03,UPI,Delivered
+ORD0308,2025-07-22,East,Mobile App,Home & Kitchen,Cookware Set,3,2389,0.1,6450.3,5390.02,1060.28,Net Banking,Delivered
+ORD0309,2025-04-26,South,Marketplace,Fashion,Cotton Shirt,3,869,0.2,2085.6,1817.84,267.76,Net Banking,Delivered
+ORD0310,2025-02-09,East,Website,Electronics,Bluetooth Speaker,4,2178,0.0,8712.0,5725.4,2986.6,UPI,Returned
+ORD0311,2025-09-01,North,Marketplace,Beauty,Face Serum,1,701,0.0,701.0,528.6,172.4,Cash on Delivery,Delivered
+ORD0312,2025-09-03,West,Marketplace,Electronics,Bluetooth Speaker,4,2584,0.15,8785.6,7305.19,1480.41,Debit Card,Delivered
+ORD0313,2025-02-13,Central,Marketplace,Sports,Running Bottle,1,464,0.1,417.6,294.02,123.58,Cash on Delivery,Cancelled
+ORD0314,2025-04-13,South,Website,Fashion,Sneakers,1,2652,0.05,2519.4,1773.15,746.25,UPI,Delivered
+ORD0315,2025-03-31,East,Website,Sports,Running Bottle,4,472,0.1,1699.2,1296.68,402.52,Cash on Delivery,Delivered
+ORD0316,2025-08-29,West,Marketplace,Sports,Running Bottle,1,407,0.0,407.0,267.45,139.55,Net Banking,Delivered
+ORD0317,2025-09-24,East,Mobile App,Home & Kitchen,Mixer Grinder,2,2625,0.1,4725.0,3859.46,865.54,Debit Card,Delivered
+ORD0318,2025-09-23,East,Website,Home & Kitchen,Storage Set,3,938,0.1,2532.6,1843.55,689.05,Credit Card,Delivered
+ORD0319,2025-12-09,North,Marketplace,Beauty,Face Serum,2,635,0.2,1016.0,827.2,188.8,Credit Card,Delivered
+ORD0320,2025-10-08,Central,Mobile App,Home & Kitchen,Storage Set,1,832,0.1,748.8,606.28,142.52,UPI,Delivered
+ORD0321,2025-04-28,East,Mobile App,Sports,Resistance Bands,1,491,0.15,417.35,368.13,49.22,Debit Card,Delivered
+ORD0322,2025-02-09,Central,Marketplace,Beauty,Face Serum,3,656,0.0,1968.0,1372.85,595.15,Net Banking,Delivered
+ORD0323,2025-08-13,North,Marketplace,Beauty,Hair Dryer,4,2136,0.2,6835.2,5625.61,1209.59,Cash on Delivery,Delivered
+ORD0324,2025-12-01,North,Mobile App,Beauty,Hair Dryer,4,1719,0.0,6876.0,5071.23,1804.77,UPI,Delivered
+ORD0325,2025-12-22,South,Marketplace,Sports,Running Bottle,4,415,0.1,1494.0,1022.07,471.93,Cash on Delivery,Returned
+ORD0326,2025-03-26,Central,Mobile App,Fashion,Sneakers,4,2898,0.15,9853.2,7930.49,1922.71,Cash on Delivery,Delivered
+ORD0327,2025-03-28,North,Website,Fashion,Cotton Shirt,3,1016,0.1,2743.2,2204.26,538.94,Credit Card,Delivered
+ORD0328,2025-01-14,East,Website,Sports,Running Bottle,2,447,0.0,894.0,522.95,371.05,Debit Card,Delivered
+ORD0329,2025-02-21,North,Website,Electronics,USB-C Hub,2,1444,0.0,2888.0,1909.72,978.28,Debit Card,Delivered
+ORD0330,2025-07-22,South,Website,Beauty,Perfume,2,1696,0.0,3392.0,1995.25,1396.75,Debit Card,Delivered
+ORD0331,2025-07-19,West,Website,Sports,Running Bottle,3,483,0.05,1376.55,981.01,395.54,Credit Card,Delivered
+ORD0332,2025-05-16,West,Mobile App,Beauty,Face Serum,2,740,0.0,1480.0,984.16,495.84,Cash on Delivery,Delivered
+ORD0333,2025-04-24,West,Website,Home & Kitchen,Cookware Set,1,2334,0.15,1983.9,1287.89,696.01,Net Banking,Delivered
+ORD0334,2025-10-30,North,Marketplace,Home & Kitchen,Desk Lamp,2,884,0.0,1768.0,1124.04,643.96,Credit Card,Delivered
+ORD0335,2025-06-17,East,Marketplace,Home & Kitchen,Storage Set,1,917,0.15,779.45,632.43,147.02,UPI,Delivered
+ORD0336,2025-10-23,North,Mobile App,Beauty,Perfume,2,1577,0.2,2523.2,2419.66,103.54,Debit Card,Delivered
+ORD0337,2025-12-18,West,Marketplace,Fashion,Backpack,3,1243,0.0,3729.0,2534.57,1194.43,Credit Card,Delivered
+ORD0338,2025-04-26,Central,Website,Electronics,Smart Watch,2,3497,0.05,6644.3,5042.34,1601.96,Credit Card,Delivered
+ORD0339,2025-03-15,Central,Marketplace,Home & Kitchen,Mixer Grinder,2,3063,0.15,5207.1,4583.13,623.97,Net Banking,Delivered
+ORD0340,2025-12-14,East,Website,Fashion,Denim Jeans,4,1682,0.1,6055.2,4097.87,1957.33,Credit Card,Delivered
+ORD0341,2025-08-20,East,Website,Sports,Yoga Mat,3,833,0.1,2249.1,1637.98,611.12,Debit Card,Delivered
+ORD0342,2025-04-17,Central,Marketplace,Beauty,Face Serum,1,605,0.1,544.5,434.15,110.35,Debit Card,Delivered
+ORD0343,2025-08-15,Central,Website,Home & Kitchen,Storage Set,4,909,0.15,3090.6,2518.99,571.61,Net Banking,Cancelled
+ORD0344,2025-07-07,Central,Website,Electronics,Smart Watch,1,3435,0.05,3263.25,2614.06,649.19,Credit Card,Delivered
+ORD0345,2025-11-27,South,Mobile App,Fashion,Sneakers,4,2856,0.05,10852.8,7111.0,3741.8,Credit Card,Delivered
+ORD0346,2025-04-04,Central,Website,Fashion,Denim Jeans,2,1526,0.1,2746.8,1957.83,788.97,Cash on Delivery,Delivered
+ORD0347,2025-12-28,East,Marketplace,Home & Kitchen,Storage Set,2,876,0.05,1664.4,1126.11,538.29,Net Banking,Delivered
+ORD0348,2025-12-08,Central,Mobile App,Electronics,Smart Watch,3,3526,0.0,10578.0,7103.1,3474.9,Credit Card,Delivered
+ORD0349,2025-03-07,West,Mobile App,Home & Kitchen,Mixer Grinder,3,2649,0.05,7549.65,6092.55,1457.1,Credit Card,Delivered
+ORD0350,2025-03-02,Central,Marketplace,Home & Kitchen,Desk Lamp,2,876,0.15,1489.2,925.68,563.52,Credit Card,Delivered
+ORD0351,2025-07-14,East,Website,Sports,Running Bottle,3,441,0.15,1124.55,932.03,192.52,Debit Card,Returned
+ORD0352,2025-01-17,North,Website,Home & Kitchen,Mixer Grinder,2,2931,0.2,4689.6,3425.09,1264.51,Credit Card,Delivered
+ORD0353,2025-04-20,South,Mobile App,Electronics,USB-C Hub,4,1516,0.2,4851.2,3172.42,1678.78,Debit Card,Delivered
+ORD0354,2025-06-08,South,Marketplace,Sports,Resistance Bands,2,542,0.0,1084.0,772.47,311.53,Cash on Delivery,Delivered
+ORD0355,2025-12-20,Central,Website,Electronics,Smart Watch,3,2818,0.0,8454.0,5616.09,2837.91,Credit Card,Delivered
+ORD0356,2025-12-29,North,Marketplace,Fashion,Backpack,4,1424,0.1,5126.4,3813.91,1312.49,UPI,Delivered
+ORD0357,2025-02-25,West,Marketplace,Fashion,Sneakers,1,2531,0.15,2151.35,1451.86,699.49,UPI,Delivered
+ORD0358,2025-11-22,South,Mobile App,Sports,Yoga Mat,4,801,0.15,2723.4,1733.38,990.02,Net Banking,Delivered
+ORD0359,2025-02-03,West,Marketplace,Sports,Resistance Bands,3,580,0.05,1653.0,1200.12,452.88,Net Banking,Delivered
+ORD0360,2025-10-01,North,Website,Fashion,Backpack,1,1575,0.05,1496.25,1095.55,400.7,Net Banking,Cancelled
+ORD0361,2025-11-05,West,Mobile App,Home & Kitchen,Mixer Grinder,2,3110,0.0,6220.0,4453.92,1766.08,Credit Card,Delivered
+ORD0362,2025-11-22,South,Website,Fashion,Cotton Shirt,1,823,0.0,823.0,450.07,372.93,Cash on Delivery,Delivered
+ORD0363,2025-03-23,West,Mobile App,Home & Kitchen,Mixer Grinder,4,2964,0.1,10670.4,9047.18,1623.22,Credit Card,Delivered
+ORD0364,2025-11-23,West,Mobile App,Beauty,Face Serum,2,739,0.15,1256.3,991.31,264.99,Cash on Delivery,Delivered
+ORD0365,2025-02-12,West,Mobile App,Fashion,Cotton Shirt,4,1025,0.05,3895.0,2197.35,1697.65,Debit Card,Delivered
+ORD0366,2025-07-09,South,Website,Home & Kitchen,Mixer Grinder,3,2996,0.0,8988.0,5061.1,3926.9,UPI,Delivered
+ORD0367,2025-06-21,North,Marketplace,Home & Kitchen,Cookware Set,2,1952,0.1,3513.6,2316.86,1196.74,Debit Card,Delivered
+ORD0368,2025-04-26,South,Marketplace,Electronics,USB-C Hub,4,1584,0.0,6336.0,4869.37,1466.63,Net Banking,Delivered
+ORD0369,2025-01-09,South,Marketplace,Electronics,Smart Watch,1,3492,0.1,3142.8,2017.36,1125.44,Debit Card,Delivered
+ORD0370,2025-10-09,West,Mobile App,Home & Kitchen,Desk Lamp,4,994,0.1,3578.4,2347.12,1231.28,Credit Card,Delivered
+ORD0371,2025-05-03,East,Mobile App,Electronics,USB-C Hub,2,1490,0.0,2980.0,1711.86,1268.14,Debit Card,Delivered
+ORD0372,2025-08-30,West,Website,Fashion,Sneakers,1,2542,0.05,2414.9,1606.91,807.99,Net Banking,Delivered
+ORD0373,2025-05-30,Central,Website,Fashion,Denim Jeans,2,1788,0.05,3397.2,2554.78,842.42,Debit Card,Delivered
+ORD0374,2025-05-17,South,Marketplace,Beauty,Skincare Kit,1,1133,0.05,1076.35,625.65,450.7,Debit Card,Delivered
+ORD0375,2025-11-20,North,Mobile App,Home & Kitchen,Desk Lamp,1,989,0.05,939.55,519.49,420.06,Credit Card,Delivered
+ORD0376,2025-02-04,South,Website,Sports,Yoga Mat,1,738,0.05,701.1,383.95,317.15,UPI,Delivered
+ORD0377,2025-09-26,South,Mobile App,Home & Kitchen,Cookware Set,2,2249,0.0,4498.0,2367.3,2130.7,Net Banking,Delivered
+ORD0378,2025-09-30,North,Mobile App,Beauty,Face Serum,1,737,0.1,663.3,500.18,163.12,Net Banking,Delivered
+ORD0379,2025-05-19,South,Mobile App,Home & Kitchen,Desk Lamp,2,989,0.05,1879.1,1226.02,653.08,Net Banking,Delivered
+ORD0380,2025-04-06,South,Mobile App,Fashion,Denim Jeans,2,1782,0.2,2851.2,1906.66,944.54,Net Banking,Delivered
+ORD0381,2025-01-02,North,Website,Beauty,Skincare Kit,4,1273,0.1,4582.8,3251.87,1330.93,UPI,Delivered
+ORD0382,2025-12-08,North,Marketplace,Home & Kitchen,Desk Lamp,4,1011,0.2,3235.2,2110.75,1124.45,UPI,Delivered
+ORD0383,2025-12-12,East,Mobile App,Beauty,Face Serum,1,687,0.1,618.3,422.47,195.83,Cash on Delivery,Delivered
+ORD0384,2025-03-29,East,Marketplace,Fashion,Sneakers,4,2884,0.1,10382.4,7413.79,2968.61,Credit Card,Delivered
+ORD0385,2025-01-12,North,Marketplace,Sports,Yoga Mat,3,852,0.0,2556.0,1870.65,685.35,UPI,Delivered
+ORD0386,2025-02-14,South,Marketplace,Beauty,Hair Dryer,1,2066,0.2,1652.8,1544.49,108.31,UPI,Delivered
+ORD0387,2025-01-25,Central,Mobile App,Electronics,Wireless Earbuds,2,1826,0.0,3652.0,2048.14,1603.86,UPI,Delivered
+ORD0388,2025-10-31,West,Website,Beauty,Perfume,1,1811,0.0,1811.0,1220.55,590.45,Credit Card,Delivered
+ORD0389,2025-11-22,South,Website,Home & Kitchen,Storage Set,4,874,0.0,3496.0,2244.34,1251.66,Cash on Delivery,Delivered
+ORD0390,2025-02-25,East,Website,Home & Kitchen,Desk Lamp,4,1038,0.1,3736.8,2925.5,811.3,Cash on Delivery,Delivered
+ORD0391,2025-09-30,South,Marketplace,Electronics,Bluetooth Speaker,4,2174,0.1,7826.4,4671.94,3154.46,Credit Card,Delivered
+ORD0392,2025-03-07,North,Website,Sports,Running Bottle,4,467,0.15,1587.8,1370.53,217.27,Credit Card,Delivered
+ORD0393,2025-05-15,East,Marketplace,Sports,Running Bottle,1,472,0.0,472.0,365.61,106.39,UPI,Delivered
+ORD0394,2025-08-07,South,Mobile App,Beauty,Skincare Kit,2,1342,0.0,2684.0,1936.1,747.9,Debit Card,Delivered
+ORD0395,2025-09-20,West,Mobile App,Home & Kitchen,Mixer Grinder,4,2677,0.15,9101.8,7689.83,1411.97,Cash on Delivery,Delivered
+ORD0396,2025-11-16,Central,Mobile App,Sports,Running Bottle,4,406,0.0,1624.0,943.57,680.43,Credit Card,Delivered
+ORD0397,2025-01-17,East,Marketplace,Fashion,Backpack,1,1346,0.0,1346.0,793.34,552.66,Net Banking,Delivered
+ORD0398,2025-03-13,West,Website,Beauty,Hair Dryer,2,1703,0.0,3406.0,1974.89,1431.11,Net Banking,Delivered
+ORD0399,2025-04-13,North,Website,Beauty,Skincare Kit,4,1159,0.1,4172.4,2868.42,1303.98,Net Banking,Delivered
+ORD0400,2025-04-24,West,Marketplace,Fashion,Backpack,2,1587,0.05,3015.3,2180.72,834.58,Net Banking,Delivered
+ORD0401,2025-12-31,North,Marketplace,Home & Kitchen,Desk Lamp,2,996,0.15,1693.2,1354.16,339.04,Debit Card,Delivered
+ORD0402,2025-10-11,South,Website,Electronics,Wireless Earbuds,4,1710,0.1,6156.0,4342.68,1813.32,Credit Card,Returned
+ORD0403,2025-04-27,East,Website,Home & Kitchen,Storage Set,1,838,0.0,838.0,595.17,242.83,Debit Card,Delivered
+ORD0404,2025-12-21,Central,Mobile App,Fashion,Denim Jeans,1,1815,0.15,1542.75,1371.72,171.03,Credit Card,Delivered
+ORD0405,2025-07-02,South,Website,Electronics,Bluetooth Speaker,4,2250,0.0,9000.0,6222.8,2777.2,Cash on Delivery,Delivered
+ORD0406,2025-07-02,South,Mobile App,Fashion,Backpack,4,1397,0.1,5029.2,4241.08,788.12,Net Banking,Returned
+ORD0407,2025-06-08,Central,Website,Electronics,USB-C Hub,2,1501,0.0,3002.0,1626.26,1375.74,Credit Card,Delivered
+ORD0408,2025-02-22,Central,Website,Electronics,Wireless Earbuds,4,1675,0.2,5360.0,4809.38,550.62,Cash on Delivery,Delivered
+ORD0409,2025-12-08,West,Marketplace,Fashion,Backpack,3,1299,0.2,3117.6,2332.22,785.38,Credit Card,Delivered
+ORD0410,2025-01-06,East,Marketplace,Fashion,Cotton Shirt,1,939,0.0,939.0,652.67,286.33,Credit Card,Delivered
+ORD0411,2025-03-05,South,Marketplace,Beauty,Face Serum,4,627,0.05,2382.6,1428.33,954.27,UPI,Delivered
+ORD0412,2025-03-25,West,Mobile App,Home & Kitchen,Mixer Grinder,3,3151,0.05,8980.35,7130.28,1850.07,UPI,Delivered
+ORD0413,2025-04-12,West,Website,Home & Kitchen,Cookware Set,3,2418,0.0,7254.0,5237.36,2016.64,Credit Card,Delivered
+ORD0414,2025-02-18,Central,Website,Fashion,Sneakers,2,2331,0.15,3962.7,3199.38,763.32,Cash on Delivery,Delivered
+ORD0415,2025-01-07,North,Marketplace,Electronics,USB-C Hub,2,1320,0.1,2376.0,1615.69,760.31,UPI,Delivered
+ORD0416,2025-09-05,North,Marketplace,Fashion,Backpack,1,1252,0.15,1064.2,752.64,311.56,Net Banking,Cancelled
+ORD0417,2025-12-20,West,Website,Sports,Yoga Mat,1,777,0.1,699.3,423.47,275.83,UPI,Delivered
+ORD0418,2025-02-14,Central,Mobile App,Sports,Running Bottle,2,474,0.1,853.2,735.64,117.56,Cash on Delivery,Delivered
+ORD0419,2025-04-19,South,Marketplace,Electronics,USB-C Hub,3,1321,0.05,3764.85,3026.24,738.61,Credit Card,Delivered
+ORD0420,2025-07-04,North,Website,Sports,Yoga Mat,1,675,0.1,607.5,502.65,104.85,UPI,Delivered
+ORD0421,2025-12-05,North,Marketplace,Home & Kitchen,Mixer Grinder,3,2866,0.1,7738.2,5919.28,1818.92,Credit Card,Delivered
+ORD0422,2025-09-11,North,Marketplace,Fashion,Sneakers,3,2917,0.1,7875.9,6649.99,1225.91,Net Banking,Delivered
+ORD0423,2025-10-07,East,Marketplace,Fashion,Denim Jeans,4,1497,0.0,5988.0,3284.22,2703.78,UPI,Delivered
+ORD0424,2025-08-01,West,Website,Electronics,Bluetooth Speaker,4,2480,0.0,9920.0,7087.39,2832.61,Credit Card,Delivered
+ORD0425,2025-06-02,South,Website,Sports,Dumbbell Set,1,1997,0.15,1697.45,1433.01,264.44,Cash on Delivery,Delivered
+ORD0426,2025-03-14,West,Website,Beauty,Perfume,4,1489,0.1,5360.4,3845.87,1514.53,Debit Card,Delivered
+ORD0427,2025-11-12,North,Website,Electronics,Bluetooth Speaker,2,2214,0.0,4428.0,3401.01,1026.99,Credit Card,Delivered
+ORD0428,2025-10-21,Central,Website,Beauty,Hair Dryer,3,1950,0.15,4972.5,3498.19,1474.31,UPI,Delivered
+ORD0429,2025-01-10,Central,Mobile App,Home & Kitchen,Storage Set,2,942,0.05,1789.8,1455.49,334.31,Debit Card,Delivered
+ORD0430,2025-09-19,North,Website,Sports,Dumbbell Set,3,2286,0.0,6858.0,4116.68,2741.32,Debit Card,Delivered
+ORD0431,2025-01-31,West,Website,Electronics,Wireless Earbuds,1,1617,0.05,1536.15,983.23,552.92,Credit Card,Delivered
+ORD0432,2025-09-27,Central,Website,Sports,Resistance Bands,2,504,0.2,806.4,680.04,126.36,Cash on Delivery,Delivered
+ORD0433,2025-10-29,Central,Marketplace,Fashion,Cotton Shirt,3,905,0.1,2443.5,1640.39,803.11,UPI,Delivered
+ORD0434,2025-02-17,South,Website,Fashion,Sneakers,1,2351,0.0,2351.0,1612.95,738.05,Cash on Delivery,Delivered
+ORD0435,2025-06-08,East,Mobile App,Electronics,Wireless Earbuds,1,1749,0.1,1574.1,1172.79,401.31,Debit Card,Delivered
+ORD0436,2025-02-15,West,Website,Electronics,USB-C Hub,2,1513,0.05,2874.7,1594.35,1280.35,Net Banking,Delivered
+ORD0437,2025-07-27,Central,Website,Fashion,Backpack,4,1493,0.0,5972.0,3201.53,2770.47,UPI,Delivered
+ORD0438,2025-12-05,Central,Mobile App,Home & Kitchen,Mixer Grinder,1,3146,0.1,2831.4,2140.31,691.09,Credit Card,Delivered
+ORD0439,2025-01-30,North,Marketplace,Electronics,Bluetooth Speaker,4,2165,0.0,8660.0,4531.27,4128.73,Debit Card,Delivered
+ORD0440,2025-05-26,West,Marketplace,Electronics,USB-C Hub,3,1650,0.05,4702.5,3666.37,1036.13,Debit Card,Delivered
+ORD0441,2025-12-22,South,Website,Electronics,USB-C Hub,2,1330,0.0,2660.0,1636.8,1023.2,Credit Card,Delivered
+ORD0442,2025-04-20,South,Mobile App,Fashion,Denim Jeans,4,1726,0.0,6904.0,5065.2,1838.8,UPI,Delivered
+ORD0443,2025-02-18,West,Website,Beauty,Skincare Kit,2,1358,0.1,2444.4,1958.78,485.62,Credit Card,Delivered
+ORD0444,2025-06-28,North,Mobile App,Fashion,Sneakers,4,2510,0.05,9538.0,6150.93,3387.07,Debit Card,Delivered
+ORD0445,2025-07-05,West,Marketplace,Fashion,Cotton Shirt,1,866,0.0,866.0,582.07,283.93,Debit Card,Delivered
+ORD0446,2025-08-30,West,Website,Beauty,Hair Dryer,3,1991,0.0,5973.0,3790.89,2182.11,Net Banking,Delivered
+ORD0447,2025-04-25,North,Mobile App,Sports,Resistance Bands,1,556,0.05,528.2,290.58,237.62,Net Banking,Delivered
+ORD0448,2025-12-15,South,Mobile App,Home & Kitchen,Desk Lamp,1,1049,0.15,891.65,697.35,194.3,Credit Card,Delivered
+ORD0449,2025-07-10,Central,Mobile App,Sports,Running Bottle,4,447,0.0,1788.0,994.05,793.95,Cash on Delivery,Cancelled
+ORD0450,2025-04-15,West,Website,Beauty,Face Serum,1,728,0.0,728.0,399.41,328.59,Cash on Delivery,Delivered
+ORD0451,2025-12-17,Central,Marketplace,Sports,Yoga Mat,3,762,0.15,1943.1,1710.56,232.54,Net Banking,Delivered
+ORD0452,2025-12-04,East,Mobile App,Home & Kitchen,Storage Set,4,770,0.1,2772.0,1708.89,1063.11,Debit Card,Delivered
+ORD0453,2025-07-02,South,Website,Fashion,Backpack,3,1457,0.15,3715.35,2338.04,1377.31,Net Banking,Delivered
+ORD0454,2025-01-10,West,Marketplace,Fashion,Backpack,2,1378,0.0,2756.0,1811.94,944.06,UPI,Delivered
+ORD0455,2025-08-06,Central,Mobile App,Beauty,Perfume,2,1642,0.1,2955.6,2548.38,407.22,Credit Card,Delivered
+ORD0456,2025-07-22,South,Website,Electronics,Bluetooth Speaker,4,2313,0.0,9252.0,6245.31,3006.69,Credit Card,Delivered
+ORD0457,2025-02-24,South,Marketplace,Electronics,Wireless Earbuds,4,1995,0.0,7980.0,5558.54,2421.46,Cash on Delivery,Delivered
+ORD0458,2025-08-20,West,Website,Sports,Resistance Bands,1,563,0.0,563.0,297.9,265.1,Net Banking,Delivered
+ORD0459,2025-11-03,Central,Mobile App,Home & Kitchen,Desk Lamp,1,841,0.15,714.85,535.97,178.88,Cash on Delivery,Delivered
+ORD0460,2025-02-08,West,Mobile App,Home & Kitchen,Storage Set,3,923,0.1,2492.1,1656.77,835.33,Credit Card,Cancelled
+ORD0461,2025-09-22,East,Marketplace,Sports,Dumbbell Set,3,2149,0.05,6124.65,4278.84,1845.81,Debit Card,Delivered
+ORD0462,2025-02-21,Central,Website,Fashion,Denim Jeans,1,1745,0.05,1657.75,1227.37,430.38,Net Banking,Delivered
+ORD0463,2025-10-01,West,Mobile App,Fashion,Cotton Shirt,1,950,0.1,855.0,545.54,309.46,Debit Card,Delivered
+ORD0464,2025-06-02,Central,Website,Sports,Yoga Mat,4,778,0.0,3112.0,2278.77,833.23,Cash on Delivery,Delivered
+ORD0465,2025-01-03,Central,Mobile App,Home & Kitchen,Storage Set,2,839,0.1,1510.2,872.84,637.36,Cash on Delivery,Delivered
+ORD0466,2025-12-19,East,Mobile App,Electronics,Bluetooth Speaker,3,2617,0.1,7065.9,4650.14,2415.76,Net Banking,Delivered
+ORD0467,2025-03-02,Central,Marketplace,Electronics,USB-C Hub,1,1678,0.1,1510.2,1138.44,371.76,UPI,Delivered
+ORD0468,2025-08-06,East,Marketplace,Sports,Resistance Bands,3,608,0.0,1824.0,1129.14,694.86,Debit Card,Delivered
+ORD0469,2025-03-08,North,Marketplace,Beauty,Face Serum,4,713,0.05,2709.4,1519.17,1190.23,UPI,Delivered
+ORD0470,2025-12-07,West,Marketplace,Electronics,Wireless Earbuds,3,1956,0.0,5868.0,3954.83,1913.17,UPI,Delivered
+ORD0471,2025-09-27,East,Mobile App,Home & Kitchen,Desk Lamp,3,1054,0.0,3162.0,1915.56,1246.44,Debit Card,Delivered
+ORD0472,2025-10-21,North,Website,Sports,Resistance Bands,1,605,0.15,514.25,401.62,112.63,Credit Card,Delivered
+ORD0473,2025-06-07,West,Mobile App,Home & Kitchen,Storage Set,1,858,0.15,729.3,585.07,144.23,Debit Card,Delivered
+ORD0474,2025-06-20,Central,Marketplace,Beauty,Skincare Kit,1,1159,0.2,927.2,847.43,79.77,Net Banking,Delivered
+ORD0475,2025-08-20,South,Marketplace,Fashion,Denim Jeans,1,1832,0.0,1832.0,1098.89,733.11,Debit Card,Delivered
+ORD0476,2025-10-14,Central,Website,Fashion,Backpack,1,1325,0.1,1192.5,714.39,478.11,Cash on Delivery,Delivered
+ORD0477,2025-11-06,West,Website,Beauty,Hair Dryer,3,2124,0.15,5416.2,3960.3,1455.9,Debit Card,Delivered
+ORD0478,2025-01-07,Central,Website,Home & Kitchen,Storage Set,2,820,0.15,1394.0,889.81,504.19,UPI,Cancelled
+ORD0479,2025-08-31,Central,Website,Fashion,Denim Jeans,3,1916,0.05,5460.6,3417.63,2042.97,UPI,Delivered
+ORD0480,2025-02-09,Central,Mobile App,Sports,Yoga Mat,2,660,0.0,1320.0,770.99,549.01,UPI,Delivered
+ORD0481,2025-04-16,South,Mobile App,Home & Kitchen,Cookware Set,2,2287,0.15,3887.9,3095.06,792.84,Cash on Delivery,Delivered
+ORD0482,2025-10-30,South,Marketplace,Home & Kitchen,Mixer Grinder,4,3165,0.1,11394.0,7496.66,3897.34,Debit Card,Delivered
+ORD0483,2025-04-02,East,Website,Fashion,Cotton Shirt,2,999,0.1,1798.2,1372.85,425.35,UPI,Delivered
+ORD0484,2025-10-18,East,Mobile App,Beauty,Perfume,3,1580,0.1,4266.0,2540.98,1725.02,Net Banking,Delivered
+ORD0485,2025-06-18,East,Mobile App,Home & Kitchen,Desk Lamp,3,904,0.0,2712.0,1985.5,726.5,UPI,Delivered
+ORD0486,2025-03-26,South,Marketplace,Beauty,Perfume,2,1569,0.0,3138.0,2332.75,805.25,Credit Card,Delivered
+ORD0487,2025-05-02,South,Marketplace,Sports,Dumbbell Set,3,2021,0.0,6063.0,3402.66,2660.34,Debit Card,Delivered
+ORD0488,2025-07-13,South,Mobile App,Fashion,Sneakers,1,2902,0.15,2466.7,2021.7,445.0,Credit Card,Delivered
+ORD0489,2025-10-07,North,Marketplace,Home & Kitchen,Mixer Grinder,2,2740,0.1,4932.0,3362.43,1569.57,Cash on Delivery,Delivered
+ORD0490,2025-08-10,West,Website,Electronics,Smart Watch,4,3546,0.0,14184.0,9483.34,4700.66,Credit Card,Delivered
+ORD0491,2025-12-07,North,Marketplace,Electronics,Bluetooth Speaker,1,2377,0.05,2258.15,1350.05,908.1,UPI,Delivered
+ORD0492,2025-11-13,West,Mobile App,Home & Kitchen,Desk Lamp,3,930,0.0,2790.0,1886.24,903.76,UPI,Delivered
+ORD0493,2025-10-02,East,Website,Home & Kitchen,Desk Lamp,4,909,0.0,3636.0,1914.14,1721.86,Debit Card,Returned
+ORD0494,2025-08-09,East,Mobile App,Electronics,Wireless Earbuds,2,1904,0.0,3808.0,2131.74,1676.26,Credit Card,Delivered
+ORD0495,2025-04-16,West,Mobile App,Sports,Dumbbell Set,4,2321,0.1,8355.6,7222.81,1132.79,Cash on Delivery,Delivered
+ORD0496,2025-05-31,West,Website,Sports,Resistance Bands,2,598,0.2,956.8,769.69,187.11,Cash on Delivery,Delivered
+ORD0497,2025-02-13,East,Mobile App,Beauty,Perfume,1,1749,0.15,1486.65,1346.89,139.76,Credit Card,Delivered
+ORD0498,2025-05-17,Central,Marketplace,Electronics,USB-C Hub,3,1673,0.1,4517.1,3365.64,1151.46,UPI,Cancelled
+ORD0499,2025-12-05,West,Mobile App,Home & Kitchen,Storage Set,2,923,0.05,1753.7,1061.28,692.42,UPI,Delivered
+ORD0500,2025-06-05,North,Marketplace,Sports,Running Bottle,1,479,0.0,479.0,358.23,120.77,Credit Card,Delivered
